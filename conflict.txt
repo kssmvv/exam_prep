@@ -1,1 +1,2 @@
-This is the first line from main branch
+
+This is the fixed conflict line. :) Chriki gei
